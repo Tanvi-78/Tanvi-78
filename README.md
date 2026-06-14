@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi,I am tanvi👋</h1>
+<h3 align="center">Learning to Build the Future</h3>
 
-<!--
-**Tanvi-78/Tanvi-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### About Me
+- 😄 Second year computer Engineering Student from India.
+- ⚡ Passionate about learning new Technologies and building projects.
+- 🌱 I’m currently learning python & C.
+- 💬 2026 Goal : Secure a technical internship.
+- 📫 contact : dalvitanvi2008@gmail.com
+---
+### Technical Skills
+- Programming languages : c,python
+- web Technologies : HTML,CSS
+- Tools : Git,VS code,GitHub
+---
+### connect
+GitHub : github.com/Tanvi-78
